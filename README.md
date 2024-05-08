@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I'm currently learning **Node.js and Python**.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardardian&theme=dracula)
 
 [![Edward Ardian Tayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardardian&theme=dracula&show_icons=true)](https://github.com/edwardardian/github-readme-stats)
