@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-edwardardian)
+
 - 🌱 I'm currently learning **Node.js and Python**.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardardian&theme=dracula)
