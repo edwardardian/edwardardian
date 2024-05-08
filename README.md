@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardardian&theme=dracula)
 
-[![Edward Ardian Tayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardardian)](https://github.com/edwardardian/github-readme-stats)
+[![Edward Ardian Tayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardardian&theme=dracula)](https://github.com/edwardardian/github-readme-stats)
 
 <!--
 **edwardardian/edwardardian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
