@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hello there👋, I'm Edward </h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-edwardardian)
 
