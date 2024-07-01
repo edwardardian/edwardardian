@@ -2,8 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-edwardardian)
 
-- 🌱 I'm currently learning **Python for Machine Learning**.
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardardian&theme=dracula) &nbsp;&nbsp;&nbsp; [![Edward Ardian Tayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardardian&theme=dracula&show_icons=true)](https://github.com/edwardardian/github-readme-stats)
 
 <!--
